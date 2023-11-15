@@ -1,3 +1,6 @@
 #include "Warrior.h"
 
-int MAINFUNC() {} P{}
+int main
+{
+	//The Main Function
+}
